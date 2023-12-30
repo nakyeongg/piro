@@ -1,4 +1,5 @@
-def piro2():
-    return
-def cart():
-    return 'cart'
+def piro(product):
+    return 1+2+product(product)
+
+def product():
+    return 4
